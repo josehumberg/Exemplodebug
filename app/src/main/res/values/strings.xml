@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Exemplo Debug</string>
+    <string name="hint_txtNome">Informe seu nome</string>
+    <string name="hint_txtTelefone">Informe seu telefone</string>
+    <string name="labelExibir">Exibir</string>
+    <string name="nota_3">nota 3</string>
+    <string name="nota2">nota2</string>
+    <string name="nota_1">nota 1</string>
+    <string name="nome_do_aluno">nome do aluno</string>
+    <string name="Nome_do_aluno">Nome do aluno</string>
+    <string name="media_dos_alunos">media dos alunos</string>
+</resources>

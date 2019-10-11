@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/lt1nome"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/Nome_do_aluno" />
+
+        <TextView
+            android:id="@+id/lt2nota1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/nota_1" />
+
+        <TextView
+            android:id="@+id/lt3nota2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/nota2" />
+
+        <TextView
+            android:id="@+id/lt4nota3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/nota_3" />
+
+        <TextView
+            android:id="@+id/lt5media"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/media_dos_alunos" />
+    </LinearLayout>
+</LinearLayout>
